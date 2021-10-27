@@ -1,0 +1,36 @@
+body {background-color: rgb(211, 23, 23); color: white;}
+
+h1, p {
+    text-align: center; color: rgb(7, 7, 7);
+}
+
+h2 {
+    text-align: center; color: grey;
+}
+
+h3 {
+    text-align: center; color: grey;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 3px solid #050505;
+    text-align: left;
+    padding: 1px;
+    color: black;
+  }
+  
+  tr:nth-child(even) {
+    background-color: grey;
+  }
+  
+  tr:nth-child(odd) {
+    background-color: #bd1717;
+  }
+
+  <img src="" alt="Buckeyes">
